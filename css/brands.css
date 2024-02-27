@@ -1154,4 +1154,8 @@ button:hover,
 
 
 
-
+/* iframe*/
+iframe {
+  border: none;
+  border-radius: 8px;
+}
