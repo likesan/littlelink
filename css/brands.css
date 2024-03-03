@@ -40,7 +40,9 @@ button {
 	width: 75%;
 	font-weight: 700;
 	line-height: 20px;
-	padding: 14px 12px 12px 12px;
+	/* padding: 14px 12px 12px 12px; */
+	padding-top: 14px;
+	padding-bottom: 14px;
 	letter-spacing: 0.1px;
 	white-space: wrap;
 	outline: none;
@@ -1163,6 +1165,13 @@ iframe {
 	border: none;
 	border-radius: 8px;
 }
+
+.flex-container{
+  display: flex; /* Make the container a flex container */
+  justify-content: center; /* Horizontally center the child elements */
+  align-items: center; /* Vertically center the child elements */
+
+}
 a{
 	display: flex;
 	align-items: center;
@@ -1177,3 +1186,4 @@ a img{
 a div.button{
 	flex: 1;
 }
+
