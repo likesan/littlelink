@@ -1166,8 +1166,14 @@ iframe {
 a{
 	display: flex;
 	align-items: center;
+	flex-direction: column;
+	max-width:85%;
 }
 a img{
+	flex:1;
 	width:100%;
 	height:auto;
+}
+a div.button{
+	flex: 1;
 }
