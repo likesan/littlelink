@@ -37,7 +37,7 @@ button {
 	text-align: center;
 	vertical-align: middle;
 	font-size: 18px;
-	width: 100%;
+	width: 75%;
 	font-weight: 700;
 	line-height: 20px;
 	/* padding: 14px 12px 12px 12px; */
@@ -1172,13 +1172,16 @@ iframe {
   align-items: center; /* Vertically center the child elements */
 
 }
+.flex-container > * {
+	flex: calc(100% / (n + 1)) 0 0;
+}
 a{
 	display: flex;
 	align-items: center;
 	flex-direction: column;
 	max-width:85%;
 }
-a img{
+a > img{
 	flex:1;
 	width:100%;
 	height:auto;
