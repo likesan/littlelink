@@ -1164,7 +1164,7 @@ iframe {
   border-radius: 8px;
 }
 img{
-	width:300px;
+	max-width:100%;
 	outline:none;
 	height:100%;
 }
