@@ -1140,7 +1140,7 @@ button:hover,
 .button.button-yt {
 	color: #ffffff;
 	background-color: #000000;
-	border: 1px solid #FFFFFF;
+	border: 0px solid #FFFFFF;
 }
 .button.button-yt:hover,
 .button.button-yt:focus {
