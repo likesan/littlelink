@@ -86,6 +86,7 @@ button:hover,
 }
 .radius{
 	border-radius: 10px;
+	overflow:hidden;
 }
 .button.button-default:hover,
 .button.button-default:focus {
@@ -1186,5 +1187,6 @@ a > img{
 }
 a div.button{
 	flex: 1;
+    border-radius: 0 0 10px 10px;
 }
 
