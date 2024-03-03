@@ -1172,9 +1172,7 @@ iframe {
   align-items: center; /* Vertically center the child elements */
 
 }
-.flex-container > * {
-	flex: calc(100% / (n + 1)) 0 0;
-}
+
 a{
 	display: flex;
 	align-items: center;
