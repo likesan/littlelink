@@ -1163,3 +1163,8 @@ iframe {
   border: none;
   border-radius: 8px;
 }
+img{
+	width:300px;
+	outline:none;
+	height:100%;
+}
