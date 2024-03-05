@@ -1,8 +1,9 @@
+
 <!DOCTYPE html>
 <html lang="en">
 
 	<head>
-		<!-- Google tag (gtag.js) -->
+OPOB		<!-- Google tag (gtag.js) -->
 		<script async src="https://www.googletagmanager.com/gtag/js?id=G-5TYDN0N0TE"></script>
 		<script>
 			window.dataLayer = window.dataLayer || [];
@@ -139,7 +140,7 @@
 
 					</div>
 					<!-- Generic Website -->
-					<div id="nature-yoga" class="flex-container">
+					<div class="flex-container">
 						<a class="radius" href="https://docs.google.com/forms/d/e/1FAIpQLScJdhNii_6zhD9zKHs2uL8PhJKlc_NnKHqDT1y8cGBqGuyA7w/viewform"target="_blank" rel="noopener">
 							<img src="images/natureyoga.jpeg">
 							<div class="button button-yt">네이쳐 요가</div>
